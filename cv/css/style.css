@@ -26,7 +26,7 @@ input{
 
 .top {
     
-    background-image: url(/images/lake-clipart-background-5.jpeg);
+    background-image: url(images/lake-clipart-background-5.jpeg);
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -57,7 +57,7 @@ input{
 .bottom {
     padding: 50px;
     text-align: center;
-    background-image: url(/images/lake-clipart-background-5.jpeg);
+    background-image: url(images/lake-clipart-background-5.jpeg);
     background-position: center;
     background-size: cover;
 }
